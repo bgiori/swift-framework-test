@@ -1,0 +1,6 @@
+framework module AmplitudeExperiment {
+  umbrella header "AmplitudeExperiment-umbrella.h"
+
+  export *
+  module * { export * }
+}
